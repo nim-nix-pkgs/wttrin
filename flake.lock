@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334900,
-        "narHash": "sha256-ExM6YJ2jBDf4pVvV0agMipk6kbSFB6mBRQHBRGZi1jU=",
+        "lastModified": 1668749152,
+        "narHash": "sha256-Rm6EBcQnY2TzobCAs1ms84X7OOs3xqZbNMmSWl5Ft1w=",
         "owner": "nim-nix-pkgs",
         "repo": "wttrin",
-        "rev": "d9447c0f002345a8d959cfc389f794796f12c60d",
+        "rev": "644ffb19c5009e854e4b354c7f902d12990ff87f",
         "type": "github"
       },
       "original": {
